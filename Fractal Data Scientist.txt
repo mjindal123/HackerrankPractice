@@ -1,1 +1,3 @@
-abcd
+Question 1 : Predicting math grade : https://www.hackerrank.com/challenges/predict-missing-grade/problem
+Question 2 : count non unique values in a array
+question 3 : 
